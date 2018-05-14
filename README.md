@@ -1,4 +1,4 @@
-# Intuit Assignment
+# Intuit Assessment
 
  -  Exercise Difficulty: Moderate
  -   How did you feel about the exercise itself?: 7

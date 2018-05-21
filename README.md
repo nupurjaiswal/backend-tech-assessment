@@ -1,10 +1,7 @@
-# Intuit Assessment
+# REST API
 
- -  Exercise Difficulty: Moderate
- -   How did you feel about the exercise itself?: 7
- -   How do you feel about coding an exercise as a step in the interview process?  10
- -   What would you change in the exercise and/or process? I had a lot of fun working on this exercise. I wouldn't want to change anything about it.
- 
+This repository contains the REST API developed for a marketplace for a self employer. In this market, the seller can post a project with fields like project requirements, time for accepting bids, description, budget etc.
+And the buyer can bid for work on a fixed price.
 
 ## Development
 
